@@ -12,7 +12,7 @@ title: Learning Algorithms                          # the main title
 tagline: A blog about Maths and ML   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A new blog about how mathematics 
+  A blog about how mathematics 
   are the base of Machine Learning
   and introductory examples of ML.
 
@@ -28,7 +28,7 @@ twitter:
   username: JC_MarcoG            # change to your twitter username
 
 social:
-  name: Juan Carlos Marco                  # it will shows as the copyright owner in Footer
+  name: J. Carlos Marco                  # it will shows as the copyright owner in Footer
   email: thelearningalgorithms@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
